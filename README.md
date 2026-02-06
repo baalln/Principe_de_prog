@@ -11,5 +11,5 @@ SopaUI va nous permmetre d'interagir avec les services créé.
 L'utiliastion du projet:
 
 -On lance ala classe application.
--on ouvre un onglet http://localhost:8888/?wsdl.
+-on ouvre un onglet "http://localhost:8888/?wsdl".
 -on ouvre SoapUI.
