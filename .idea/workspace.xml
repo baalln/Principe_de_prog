@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9dc0cafc-2d3e-467b-b5ae-c4a39088cfc4" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cm2/API.py" beforeDir="false" afterPath="$PROJECT_DIR$/cm2/API.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,5 +51,8 @@
       <updated>1777120832003</updated>
     </task>
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.py" />
   </component>
 </project>
