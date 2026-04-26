@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/TP1-principe.iml" filepath="$PROJECT_DIR$/TP1-principe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mini-TP.iml" filepath="$PROJECT_DIR$/Mini-TP.iml" />
     </modules>
   </component>
 </project>
